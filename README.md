@@ -4,26 +4,26 @@
 - 🌱 I am passionate about technologies and love to learn new things.
 -  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-#### 🔭 I’m currently looking for Opportunities.
+#### 🔭  *I’m currently looking for Opportunities.*
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
 
-Objective-C , Swift , SQL , 
-JSON , 
+*Objective-C , Swift , SQL , 
+JSON* 
 
 
 ## 🖥️ Projects
 
 Here are some projects done by Me
 
-[Currency Converter App 📱](https://github.com/PRKWorks/CurrencyConverter)
+- [Weather-Forecast-App 🌦️](https://github.com/PRKWorks/Weather-Forecast-App)
 
-[Weather-Forecast-App 🌦️](https://github.com/PRKWorks/Weather-Forecast-App)
+- [Currency Converter App 📱](https://github.com/PRKWorks/CurrencyConverter)
 
-[SignUp-App](https://github.com/PRKWorks/SignUp-App)
+- [SignUp-App](https://github.com/PRKWorks/SignUp-App)
 
-[ToDo-List-App 📱](https://github.com/PRKWorks/ToDo-List-App)
+- [ToDo-List-App 📱](https://github.com/PRKWorks/ToDo-List-App)
 
 
 
