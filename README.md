@@ -4,14 +4,18 @@
 - 🌱 I am passionate about technologies and love to learn new things.
 -  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-## 🔭  *I’m currently looking for Opportunities as iOS Developer.*
+## 🔭  *I’m currently looking for Opportunities in iOS Development.*
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
 
-*Objective-C , Swift , SQL , 
-JSON* 
+*`Objective-C` , `Swift` , `SQL` , `JSON`.* 
 
+
+## 🛠️ Tools Stack
+Tools that I use on work.
+
+*`Xcode` , `PostmanCanary` , `Github Desktop` , `QuickType-JSON Formatter`.*
 
 ## 🖥️ Projects
 
