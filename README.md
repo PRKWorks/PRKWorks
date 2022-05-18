@@ -4,7 +4,7 @@
 - 🌱 I am passionate about technologies and love to learn new things.
 -  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-#### 🔭  *I’m currently looking for Opportunities.*
+## 🔭  *I’m currently looking for Opportunities as iOS Developer.*
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
@@ -24,6 +24,9 @@ Here are some projects done by Me
 - [SignUp-App](https://github.com/PRKWorks/SignUp-App)
 
 - [ToDo-List-App 📱](https://github.com/PRKWorks/ToDo-List-App)
+
+- [News-App 📰](https://github.com/PRKWorks/News-App)
+
 
 
 
