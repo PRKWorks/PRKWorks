@@ -1,10 +1,10 @@
 # <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px">Hi, I am P.RamKumar 👨‍💻
 - 👋 Welcome to My GitHub @PRKWorks
-- 💡 I love innovation and new technologies
+- 💡 I am a selflearner, ambitious, innovative and hardworking individual.
 - 🌱 I am passionate about technologies and love to learn new things.
 -  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-## 🔭  *I’m currently Seeking an entry-level position to begin my career in a high-level professional environment.*
+## 🔭  *I’m currently Seeking an entry-level position to begin my career in a challenging organization.*
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
