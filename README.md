@@ -4,7 +4,7 @@
 - 🌱 I am passionate about technologies and love to learn new things.
 -  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-## 🔭  *I’m currently looking for Opportunities in iOS Development.*
+## 🔭  *I’m currently Seeking an entry-level position to begin my career in a high-level professional environment.*
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
