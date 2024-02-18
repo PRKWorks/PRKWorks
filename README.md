@@ -9,7 +9,7 @@
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
 
-*`Objective-C` , `Swift` , `SQL` , `JSON`.* 
+*`Objective-C` , `Swift` , `SwiftUI` , `SQL` , `JSON`.* 
 
 
 ## 🛠️ Tools Stack
